@@ -12,7 +12,6 @@ public class ValidParentheses {
 
         System.out.println(character);
 
-
     }
 
     public static boolean isValid(String b) {
